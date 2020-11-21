@@ -17,7 +17,7 @@ I am interested and passionate about Full Stack/Backend Web Development. I have 
 
 <p align="center">I’m currently working on building a professional networking platform in healthcare as a part of my internship. I’m currently learning Spring Boot and Kafka. I am actively looking for opportunities in Software Engineering.</p>
 
-<p align="center"> <a target="_blank" href="https://sharma-arpit.com/">My Portfolio</a></p>
+<p align="center"> <a href="https://sharma-arpit.com/" target="_blank">My Portfolio</a></p>
 
 <p align="left">
   
