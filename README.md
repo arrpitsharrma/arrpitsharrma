@@ -13,7 +13,7 @@
 <h2 align="center">Hi! My name is Arpit . </h2>
 
 <p align="center">I'm a Software Engineer at Oracle Cloud Infrastructure. MS Software Engineering graduate from San Jose State University.
-I am interested and passionate about Full Stack/Backend Web Development. I have worked on several Full Stack Web applications independently and in team. I also have 3 years of work experience as a Software Engineer.</p>
+I am interested and passionate about Full Stack/Backend Web Development. I have worked on several Full Stack Web applications independently and in team.</p>
 
 <p align="center"> <a href="https://sharma-arpit.com/" target="_blank">My Portfolio</a></p>
 
